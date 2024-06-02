@@ -2,7 +2,7 @@
 
 Welcome to my android notes app! This app is a simple android application that allows users to create, delete, and store notes on their android devices. I created this app so that I could learn a little more about android studio and diversify my development portfolio. I was very curious to learn about mobile app programming because there are so many things that we use our phones for every day that just don't require PC's to do.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OXZzd1M3w3M)
 
 # Development Environment
 
